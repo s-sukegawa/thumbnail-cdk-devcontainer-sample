@@ -1,0 +1,4 @@
+body { font-family: sans-serif; margin: 2rem; background: #f7f7fb; }
+main { max-width: 720px; margin: 0 auto; background: white; padding: 1.5rem; border-radius: 8px; }
+button { margin-top: 1rem; padding: 0.6rem 1rem; }
+pre { background: #111; color: #ddd; padding: 1rem; border-radius: 6px; min-height: 80px; }
