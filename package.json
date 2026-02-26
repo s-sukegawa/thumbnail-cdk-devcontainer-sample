@@ -5,7 +5,7 @@
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
-    "test": "node --test --test-concurrency=1 --import tsx test/**/*.test.ts",
+    "test": "node --test --test-concurrency=1 --import tsx test/*.test.ts",
     "cdk": "cdk",
     "synth": "cdk synth",
     "deploy:dev": "cdk deploy --require-approval never -c stage=dev",
